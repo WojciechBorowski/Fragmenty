@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fragmenty_lab</string>
+    <string name="podaj_ciag_1_2_3">Podaj ciag: 1,2,3...</string>
+    <string name="sortowanie_przez_wstawianie">Sortowanie przez wstawianie</string>
+    <string name="sortowanie_b_belkowe">Sortowanie bąbelkowe</string>
+    <string name="opis_wstawianie">Algorytm sortowania przez wstawianie, podczas iteracji wstawia każdy element na jego właściwą pozycję. Przy każdej iteracji element jest porównywany ze wcześniejszymi elementami, aż do znalezienia prawidłowej pozycji, następnie elementy po lewej stronie są przesuwane, aby zrobić miejsce dla nowego elementu.</string>
+    <string name="opis_babelkowe">Algorytm sortowania bąbelkowego jest jednym z najstarszych algorytmów sortujących. Zasada działania opiera się na cyklicznym porównywaniu par sąsiadujących elementów i zamianie ich kolejności w przypadku niespełnienia kryterium porządkowego zbioru. Operację tę wykonujemy dotąd, aż cały zbiór zostanie posortowany.</string>
+    <string name="przed">Przed sortowaniem</string>
+    <string name="po">Po sortowaniu</string>
+    <string name="menu">Menu</string>
+</resources>
